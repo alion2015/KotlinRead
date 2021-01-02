@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">CoroutineRetofitMvvm</string>
+    <string name="app_name">KotlinREAD</string>
+    <string name="searct_title">搜索</string>
 </resources>

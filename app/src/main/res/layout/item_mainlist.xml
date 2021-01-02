@@ -7,16 +7,9 @@
     tools:context="com.alion.fiction.MainActivity">
 
     <TextView
-        android:id="@+id/main_txtview"
+        android:id="@+id/item_seearch"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:scrollbars="vertical"
-        android:text="Hello World!" />
-
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/main_recycle"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="wrap_content"/>
 
 
 </FrameLayout>
